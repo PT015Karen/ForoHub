@@ -1,0 +1,14 @@
+com\mycompany\forohub\repository\CursoRepository.class
+com\mycompany\forohub\model\Topico.class
+com\mycompany\forohub\model\Usuario.class
+com\mycompany\forohub\controller\TopicoController.class
+com\mycompany\forohub\repository\TopicoRepository.class
+com\mycompany\forohub\service\TokenService.class
+com\mycompany\forohub\repository\PerfilRepository.class
+com\mycompany\forohub\model\Perfil.class
+com\mycompany\forohub\config\SecurityConfigurations.class
+com\mycompany\forohub\model\Respuesta.class
+com\mycompany\forohub\repository\RespuestaRepository.class
+com\mycompany\forohub\repository\UsuarioRepository.class
+com\mycompany\forohub\model\Curso.class
+com\mycompany\forohub\MiAppApplication.class
